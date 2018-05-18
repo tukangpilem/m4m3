@@ -1,0 +1,129 @@
+{
+   "title": "热门游戏",
+   "total": "278",
+   "page_no": "2",
+   "page_size": "10",
+   "total_page": "28",
+   "game": [
+      {
+         "id": "100008",
+         "name": "Final Fight",
+         "size": "1413",
+         "score": "3.3078",
+         "icon": "http://emres.emu88.com/icons/08/100008_1.png",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/08/100008.js",
+         "pkg_name": "ffight.zip",
+         "numofbutton": "3",
+         "bplusx": "1"
+      },
+      {
+         "id": "100010",
+         "name": "The Punisher",
+         "size": "3840",
+         "score": "4.3994",
+         "icon": "http://emres.emu88.com/icons/10/100010_1.jpg",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/10/100010.js",
+         "pkg_name": "punisher.zip",
+         "numofbutton": "3",
+         "bplusx": "1"
+      },
+      {
+         "id": "100027",
+         "name": "Golden Axe",
+         "size": "1198",
+         "score": "3.1346",
+         "icon": "http://emres.emu88.com/icons/27/100027_1.jpg",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/27/100027.js",
+         "pkg_name": "goldnaxe.zip",
+         "numofbutton": "3",
+         "bplusx": "1"
+      },
+      {
+         "id": "100105",
+         "name": "Double Dragon II",
+         "size": "740",
+         "score": "3.0568",
+         "icon": "http://emres.emu88.com/icons/05/100105_1.jpg",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/05/100105.js",
+         "pkg_name": "ddragon2.zip",
+         "numofbutton": "2",
+         "bplusx": "1"
+      },
+      {
+         "id": "100118",
+         "name": "The King of Dragons",
+         "size": "2314",
+         "score": "4.322",
+         "icon": "http://emres.emu88.com/icons/18/100118_1.png",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/18/100118.js",
+         "pkg_name": "kod.zip",
+         "numofbutton": "2",
+         "bplusx": "0"
+      },
+      {
+         "id": "100047",
+         "name": "Metal Slug 2",
+         "size": "17090",
+         "score": "4.7431",
+         "icon": "http://emres.emu88.com/icons/47/100047_1.jpg",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/47/100047.js",
+         "pkg_name": "mslug2.zip",
+         "numofbutton": "3",
+         "bplusx": "0"
+      },
+      {
+         "id": "100033",
+         "name": "Street Hoop / Street Slam / Dunk Dream",
+         "size": "4587",
+         "score": "4.6858",
+         "icon": "http://emres.emu88.com/icons/33/100033_1.jpg",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/33/100033.js",
+         "pkg_name": "strhoop.zip",
+         "numofbutton": "2",
+         "bplusx": "0"
+      },
+      {
+         "id": "100055",
+         "name": "Teenage Mammal Ninja Chipmunks 2",
+         "size": "3235",
+         "score": "3.4689",
+         "icon": "http://emres.emu88.com/icons/55/100055_1.jpg",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/55/100055.js",
+         "pkg_name": "tmnt2.zip",
+         "numofbutton": "3",
+         "bplusx": "1"
+      },
+      {
+         "id": "100015",
+         "name": "Snow Bros. - Nick and Tom",
+         "size": "288",
+         "score": "3.5226",
+         "icon": "http://emres.emu88.com/icons/15/100015_1.png",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/15/100015.js",
+         "pkg_name": "snowbros.zip",
+         "numofbutton": "2",
+         "bplusx": "0"
+      },
+      {
+         "id": "100045",
+         "name": "Samurai Shodown IV",
+         "size": "22169",
+         "score": "4.1055",
+         "icon": "http://emres.emu88.com/icons/45/100045_1.jpg",
+         "detail_url": "",
+         "down_url": "http://cdn1.hatany.com/roms/45/100045.js",
+         "pkg_name": "samsho4.zip",
+         "numofbutton": "4",
+         "bplusx": "0"
+      }
+   ]
+}
