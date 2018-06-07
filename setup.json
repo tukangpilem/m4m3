@@ -1,0 +1,14 @@
+{
+   "enabledads": "no",
+   "emu": "no",
+   "inads": [
+      {
+         "id": "0",
+         "title": "King of Fighters '97",
+         "package": "com.bla.bla",
+         "desc": "apalah dayaku",
+         "image": "http://emres.emu88.com/icons/11/100011_1.png",
+         "icon": ""
+      }
+   ]
+}
