@@ -1,9 +1,9 @@
 {
-   "ads": 0,
-   "emu": 0,
-   "update": 0,
+   "ads": false,
+   "emu": false,
+   "update": false,
    "package": "com.dot.dot",
-   "inads":1,
+   "inads": true,
    "data": [
       {
          "id": "0",
