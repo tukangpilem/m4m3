@@ -1,7 +1,10 @@
 {
-   "enabledads": "no",
-   "emu": "no",
-   "inads": [
+   "ads": 0,
+   "emu": 0,
+   "update": 0,
+   "package": "com.dot.dot",
+   "inads":1,
+   "data": [
       {
          "id": "0",
          "title": "King of Fighters '97",
