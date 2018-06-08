@@ -8,9 +8,17 @@
       {
          "id": "0",
          "title": "King of Fighters '97",
-         "package": "com.bla.bla",
+         "package": "com.bla.kof",
          "desc": "apalah dayaku",
-         "image": "http://emres.emu88.com/icons/11/100011_1.png",
+         "image": "https://vignette.wikia.nocookie.net/snk/images/b/b8/KOF-XIV.png/revision/latest?cb=20160426174150",
+         "icon": ""
+      },
+      {
+         "id": "0",
+         "title": "King of Fighters '97",
+         "package": "com.bla.teken",
+         "desc": "apalah dayaku",
+         "image": "https://pre00.deviantart.net/5c7c/th/pre/i/2012/203/0/a/street_fighter_x_teken_by_solid_zonda-d589c0v.jpg",
          "icon": ""
       }
    ]
