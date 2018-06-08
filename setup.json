@@ -1,7 +1,7 @@
 {
    "ads": true,
-   "emu": false,
-   "update": false,
+   "emu": true,
+   "update": true,
    "package": "com.dot.dot",
    "inads": true,
    "data": [
