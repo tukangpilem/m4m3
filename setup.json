@@ -1,5 +1,5 @@
 {
-   "ads": true,
+   "ads": false,
    "emu": true,
    "update": true,
    "package": "com.dot.dot",
