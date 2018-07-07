@@ -1,5 +1,5 @@
 {
-   "ads": false,
+   "ads": true,
    "emu": true,
    "update": false,
    "package": "com.loveplusplus.update.sample",
