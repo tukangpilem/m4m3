@@ -1,6 +1,6 @@
 {
-   "ads": false,
-   "emu": false,
+   "ads": true,
+   "emu": true,
    "update": false,
    "package": "com.loveplusplus.update.sample",
    "url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.3.apk",
