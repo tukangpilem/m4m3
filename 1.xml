@@ -68,11 +68,11 @@
       {
          "id": "100004",
          "name": "Metal Slug - Super Vehicle-001",
-         "size": "12881",
+         "size": "14413",
          "score": "4.1064",
          "icon": "http://emres.emu88.com/icons/04/100004_1.png",
          "detail_url": "",
-         "down_url": "http://viralhud.com/mam3/mslug.zip",
+         "down_url": "https://github.com/hoangnq154/arcade_mame/raw/master/roms/mslug.zip",
          "pkg_name": "mslug.zip",
          "numofbutton": "3",
          "bplusx": "0"
