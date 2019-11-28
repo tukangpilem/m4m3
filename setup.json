@@ -6,6 +6,11 @@
    "url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.3.apk",
    "version":"1.3",
    "inads": false,
+   "action": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/action.jpg",
+   "fight": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
+   "shoot": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/action.jpg",
+   "casual": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
+   "others": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
    "data": [
       {
          "id": "0",
