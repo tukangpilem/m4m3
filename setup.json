@@ -9,8 +9,8 @@
    "action": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/action.jpg",
    "fight": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
    "shoot": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/shoot.jpg",
-   "casual": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
-   "others": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
+   "casual": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/casual.jpg",
+   "others": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/others.jpg",
    "data": [
       {
          "id": "0",
