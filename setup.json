@@ -14,18 +14,18 @@
    "data": [
       {
          "id": "0",
-         "title": "King of Fighters '97",
-         "package": "com.bla.kof",
-         "desc": "apalah dayaku",
-         "image": "https://vignette.wikia.nocookie.net/snk/images/b/b8/KOF-XIV.png/revision/latest?cb=20160426174150",
+         "title": "pubg",
+         "package": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+         "desc": "The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile.",
+         "image": "https://github.com/tukangpilem/m4m3_multi/raw/master/thumbnail/androdun.jpg",
          "icon": ""
       },
       {
          "id": "1",
-         "title": "King of Fighters '97",
-         "package": "com.bla.teken",
-         "desc": "apalah dayaku",
-         "image": "https://pre00.deviantart.net/5c7c/th/pre/i/2012/203/0/a/street_fighter_x_teken_by_solid_zonda-d589c0v.jpg",
+         "title": "free fire",
+         "package": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+         "desc": "Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all seeking survival.",
+         "image": "https://github.com/tukangpilem/m4m3_multi/raw/master/thumbnail/aof3.jpg",
          "icon": ""
       }
    ]
