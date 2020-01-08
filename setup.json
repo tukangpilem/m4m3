@@ -5,7 +5,7 @@
    "package": "com.mame.arcadehub.coolrom",
    "url":"https://github.com/tukangpilem/m4m3/raw/master/update_mame105.apk",
    "version":"1.3",
-   "inads": false,
+   "inads": true,
    "action": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/action.jpg",
    "fight": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
    "shoot": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/shoot.jpg",
